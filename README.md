@@ -1,4 +1,4 @@
 # hello
-# hi this is Ranjith, working at Guhatek as a SRE Engineeer.
+# hi this is Ranjith.
 # i have creted this hello repo for the practice purpose.
 # Location Bangalore
